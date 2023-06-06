@@ -1,6 +1,6 @@
 # Tabletop Golf Game
 
-This is the demo for a new tabletop golf game. To play the game, download and print these components:
+This is the demo for a new tabletop golf game. To play the game, click the links below to download and print these components:
 
 - [Course (9 holes for the demo)](https://raw.github.com/brianhaferkamp/tabletopgolfgame/main/golf_game_condensed_demo.pdf)
 - [Player cards](https://raw.github.com/brianhaferkamp/tabletopgolfgame/main/golf_game_player_cards.pdf)
