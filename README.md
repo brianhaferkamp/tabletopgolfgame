@@ -2,7 +2,7 @@
 
 This is the demo for a new tabletop golf game. To play the game, download and print these components:
 
-- [Course (9 holes for the demo)](golf_game_condensed_demo.pdf)
+- [Course (9 holes for the demo)](https://github.com/brianhaferkamp/tabletopgolfgame/blob/9f4a530d963816cfbeed181ef7250985365e575f/golf_game_condensed_demo.pdf)
 - Player cards
 - Game guide
 
